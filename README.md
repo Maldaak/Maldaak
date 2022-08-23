@@ -1,6 +1,5 @@
 # Olá! Sou o Maldak, jovem iniciante no mundo da programação!
 
-##
 
 <div class="content">
 <img src="https://github-readme-stats.vercel.app/api?username=Maldaak&show_icons=true&theme=dracula&border_radius=20">
