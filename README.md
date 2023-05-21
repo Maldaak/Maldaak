@@ -1,6 +1,5 @@
 ## Olá! Sou o Maldak. Seja bem-vindo a minha página!
-<div display="block-inline">
-  <a href="https://github.com/Maldak123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maldak123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img font-size="20px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=compact&langs_count=7&theme=dracula"/>
+<div align=center>
+  <img max-width=100% height=160em src="https://github-readme-stats.vercel.app/api?username=Maldak123&show_icons=true&theme=vision-friendly-dark&bg_color=0D1117"/>
+  <img max-width=100% height=160em wid src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=donut&show_icons=true&theme=vision-friendly-dark&bg_color=0D1117"
 </div>
