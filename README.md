@@ -1,18 +1,20 @@
 ## Olá! 👋 <br> Sejam bem-vindos a minha página!
 
-Oi! Eu sou o <b> Miguel </b>, um estudante que programa por hobby!
+Oi! Eu sou o **Miguel**, um estudante que programa por hobby!
 
 Atualmente estou no ensino médio e possuo um grande interesse em desenvolvimento web e, apesar de programar por hobby, pretendo aprofundar meus conhecimentos para trabalhar com isso. 
 
-Atualmente estou estudando utilizando os recursos do <b> Github Student Pack </b>.
+Atualmente estou estudando utilizando os recursos do **Github Student Pack**.
 
-<strong>Ferramentas:</strong>
+**Ferramentas:**
 <br>
 *Estou em fase de aprendizado com estas.
 
-<img max-width=100% height=60px src="https://github.com/Maldak123/Maldak123/assets/90607378/98a573e7-e075-4f5a-81ff-a92e2a54bbdf"/>
-<img max-width=100% height=60px src="https://github.com/Maldak123/Maldak123/assets/90607378/fe21b7a8-508d-495f-bf3f-706d464b487e"/>
-<img max-width=100% height=60px src="https://github.com/Maldak123/Maldak123/assets/90607378/9786169b-58fd-462d-87a2-177954959685"/>
+<div style="display: inline-block;">
+  <img max-width=100% height=60px src="https://github.com/Maldak123/Maldak123/assets/90607378/98a573e7-e075-4f5a-81ff-a92e2a54bbdf"/>
+  <img max-width=100% height=60px src="https://github.com/Maldak123/Maldak123/assets/90607378/fe21b7a8-508d-495f-bf3f-706d464b487e"/>
+  <img max-width=100% height=60px src="https://github.com/Maldak123/Maldak123/assets/90607378/9786169b-58fd-462d-87a2-177954959685"/>
+</div>
 <br><br>
 
 <ul type="rounded">
