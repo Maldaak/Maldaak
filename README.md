@@ -1,4 +1,4 @@
-## Olá! 👋 <br> Sejam bem-vindos a minha página!
+## Olá! 👋
 
 Oi! Eu sou o **Miguel**, um estudante que programa por hobby!
 
@@ -18,7 +18,7 @@ Atualmente estou estudando utilizando os recursos do **Github Student Pack**.
 <br><br>
 
 <ul type="rounded">
-  <li>📖 Entrei no mundo da programação a cerca de 1 ano, sempre estudando e parando, mas dessa vez pretendo seguir firme nos estudos.</li>
+  <!--<li>📖 Entrei no mundo da programação a cerca de 1 ano, sempre estudando e parando, mas dessa vez pretendo seguir firme nos estudos.</li>-->
   <li>💻 Tenho um pouco de experiência em HTML e CSS, e no momento estou focando em JavaScript.</li>
   <li>🛠 Não tenho nenhum projeto para exibir no momento, mas pretendo desenvolvê-los enquanto estudo.</li>
 </ul>
